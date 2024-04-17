@@ -3,34 +3,35 @@ We've carried out a thorough examination of past auto sales data to offer insigh
 
 ### 1. Analysis of Data:
 
-We started our investigation by looking through a large dataset that included a variety of characteristics from previous auto sales. Here are all the columns that were in our dataset:
+We started our investigation by looking through a large dataset that included a variety of characteristics from previous auto sales. After completing the data cleaning process, our dataset was refined to include 70,000 rows of data:
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/dataInfo.PNG)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/dataInfo.PNG)
 
 Numerical value analysis:
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/dataDesc.PNG)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/dataDesc.PNG)
 
 We found important patterns and connections between many variables and car pricing using exploratory data analysis.
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/heatMap.png)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/heatMap.png)
 
 Let's see these correlations compared to our price:
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/priceCorr.png)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/priceCorr.png)
 
+We observe a strong positive correlation between price and year. Let's delve into our models to identify additional underlying correlations between every column in our dataset.
 ### 2.  Predictive Modeling: 
 Using machine learning techniques, we created a predictive model that can estimate car costs based on important characteristics. We ran 3 predictive models and these were the performance of each model.
 
 #### Error comparison:
 These error comparisons provide insights into the performance of each model, with lower values indicating superior performance.
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/MSE_comp.png)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/MSE_comp.png)
 
 #### R<sup>2</sup> comparison:
 These R<sup>2</sup> comparisons offer a perspective on the performance of each model, where higher values signify better performance.
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/R_comp.png)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/R_comp.png)
 
 The model we picked displayed good performance measures, highlighting its ability to reliably anticipate future sales prices without any overfitting.
 
@@ -38,7 +39,7 @@ The model we picked displayed good performance measures, highlighting its abilit
 
 The investigation revealed the top three factors that have the most influence on car prices:
 
-![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/tree/main/images/importance.png)
+![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/importance.png)
 
 * Year: Newer model years typically attract greater prices, reflecting technological developments and design preferences.
 * Odometer: Lower mileage correlates with higher costs, indicating that consumers prefer well-maintained vehicles with less wear and tear.
