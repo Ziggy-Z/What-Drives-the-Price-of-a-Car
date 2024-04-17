@@ -1,5 +1,5 @@
 ## Introduction
-We've carried out a thorough examination of past auto sales data to offer insightful recommendations for improving inventory control tactics. Our machine learning-based forecasting algorithm provides practical insights into upcoming pricing trends. Our main conclusions and suggestions to assist your dealership make the best inventory decisions are presented in this study.
+We've carried out a thorough examination of past auto sales data to offer insightful recommendations for improving inventory control tactics. Our machine learning-based forecasting algorithm provides practical insights into upcoming pricing trends. Our main conclusions and suggestions to assist your dealership make the best inventory decisions are presented in this study. Detailed technical investigation can be found here: [Jupyter Notebook](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/Car_Price.ipynb)
 
 ### 1. Analysis of Data:
 
