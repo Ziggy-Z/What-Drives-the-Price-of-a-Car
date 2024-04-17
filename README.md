@@ -50,8 +50,9 @@ Based on our findings, we offer the following measures for improving inventory m
 
 * Prioritize purchasing newer model years with lower mileage and higher cylinder counts to capitalize on market demand for high-performance vehicles.
 * Pricing strategies should be reviewed and updated regularly, taking into account market conditions, competitor evaluation, and customer preferences.
-* Create customized marketing efforts that showcase inventory strengths such as low-mileage cars and advanced engine configurations.
-* Additionally, consider diversifying your inventory by stocking a variety of vehicle types, including sedans, SUVs, trucks, and hybrids. Analyze market trends and customer preferences to identify emerging trends and ensure your inventory aligns with changing consumer demands.
+* Create customized marketing efforts that showcase inventory strengths such as low-mileage and high-performance cars.
+* Consider diversifying your inventory by stocking a variety of vehicle types, including sedans, SUVs, trucks, and hybrids.
+* Analyze market trends and customer preferences to identify emerging trends and ensure your inventory aligns with changing consumer demands.
 
 ### 5. Conclusion:
 
