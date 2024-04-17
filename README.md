@@ -53,7 +53,10 @@ Based on our findings, we offer the following measures for improving inventory m
 * Create customized marketing efforts that showcase inventory strengths such as low-mileage and high-performance cars.
 * Consider diversifying your inventory by stocking a variety of vehicle types, including sedans, SUVs, trucks, and hybrids.
 * Analyze market trends and customer preferences to identify emerging trends and ensure your inventory aligns with changing consumer demands.
-
-### 5. Conclusion:
+### 5. Next steps:
+* Get more latest data that pertains to the past 3-5 years for predictive consistency over different years.
+* Use different models other than regression like Decision Tree, Random Forest, and K-Nearest Neighbors (KNN).
+* Revisit recommendations and adjust changes as needed.
+### 6. Conclusion:
 
 Our analysis gives useful insights into the biggest drivers of car prices and practical recommendations for improving inventory management tactics. Your dealership may make informed choices to remain competitive in the evolving used car market and improve profits by using advanced analytics and predictive modeling approaches.
