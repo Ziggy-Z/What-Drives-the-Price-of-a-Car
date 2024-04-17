@@ -23,17 +23,17 @@ We observe a strong positive correlation between price and year. Let's delve int
 ### 2.  Predictive Modeling: 
 Using machine learning techniques, we created a predictive model that can estimate car costs based on important characteristics. We ran 3 predictive models and these were the performance of each model.
 
-#### Error comparison:
-These error comparisons provide insights into the performance of each model, with lower values indicating superior performance.
+#### Evaluation metric 1:
+Our first evaluation metric will be the Mean Squared Error of each model. We chose this to penalize larger errors more heavily for our model. MSE provides insight into the performance of each model, with lower values indicating better performance.
 
 ![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/MSE_comp.png)
 
-#### R<sup>2</sup> comparison:
-These R<sup>2</sup> comparisons offer a perspective on the performance of each model, where higher values signify better performance.
+#### Evaluation metric 2:
+R<sup>2</sup> score value indicates the proportion of the variance in the dependent variable (price) that is explained by the independent variables. These comparisons offer a perspective on the performance of each model, where higher values signify better performance.
 
 ![Logo](https://github.com/Ziggy-Z/What-Drives-the-Price-of-a-Car/blob/main/images/R_comp.png)
 
-The model we picked displayed good performance measures, highlighting its ability to reliably anticipate future sales prices without any overfitting.
+The model we picked displayed good performance measures both in MSE and R<sup>2</sup> scores, highlighting its ability to reliably anticipate future sales prices without overfitting.
 
 ### 3. Key Features Driving Prices:
 
